@@ -6,3 +6,5 @@ I am 18 years old and currently a first-year student in the IT Data Analytics pr
 Some of my goals include earning my bachelor’s degree by 2029, securing a stable job in my chosen career, and moving to a new place to start the next chapter of my life.
 
 [Allen Xiong Resume.pdf](https://github.com/user-attachments/files/22963001/Allen.Xiong.Resume.pdf)
+
+[It Exploration](https://xyoojallen.github.io/IT-Exploration/)
