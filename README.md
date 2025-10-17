@@ -1,0 +1,6 @@
+# about me
+Hi everyone, my name is Allen Xiong, and I’m from Holmen, WI. I’m the youngest in my family, with one sister and four brothers. I enjoy spending time with both friends and family, whether in person or online. A little about me: I love playing games, especially competitive ones, and I try to take as many photos as possible to capture memories. I also enjoy eating out and traveling whenever I get the chance.
+
+I am 18 years old and a first-year student in the IT Data Analytics program, with a clear goal of graduating in the spring of 2027 and transferring to the University of Wisconsin–La Crosse (UWL). I am eager to launch a career in the IT field, seeking internships or positions with forward-thinking companies such as Kwik Trip or Emplify. I bring a strong attention to detail, a natural curiosity for technology, and the ability to quickly adapt to new systems and tools. Growing up with both older and newer technologies has given me a unique perspective, allowing me to bridge gaps between traditional and modern tech solutions. I am confident that my dedication, technical aptitude, and enthusiasm for data-driven problem solving will make me a valuable asset in any IT or data analytics role.
+
+Some of my goals are to graduate college 2029 and get my bachelors, get a stable job with my career, and move out to someplace new.
